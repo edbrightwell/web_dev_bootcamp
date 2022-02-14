@@ -1,0 +1,30 @@
+  body {
+    background-color: #F8EDE3;
+  }
+
+  h1 {
+    color: #798777;
+  }
+
+  h3 {
+    color: #798777;
+  }
+
+  img {
+      border: solid 10px transparent;
+  }
+  img:hover {
+      border-color: #798777;
+      border-radius: 100%
+  }
+
+  hr {
+    border-color: #BDD2B6;
+    border-style: dotted none none none;
+    border-width: 6px;
+    width: 50px;
+  }
+
+  hr:hover {
+      color: #A2B29F;
+        }
